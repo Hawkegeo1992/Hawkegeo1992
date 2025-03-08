@@ -1,4 +1,6 @@
-
+import ee
+ee.Authenticate()
+ee.Initialize(project='ee-hawkegeo')
 import ee
 import geemap
 import streamlit as st
