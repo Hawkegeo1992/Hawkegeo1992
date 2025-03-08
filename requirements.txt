@@ -7,4 +7,5 @@ matplotlib
 requests
 pyproj
 folium
-# cudf_cu12 را حذف کنید! این پکیج روی Streamlit Cloud پشتیبانی نمی‌شود
+setuptools
+
